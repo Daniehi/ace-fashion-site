@@ -50,13 +50,8 @@ This project is built as a practice portfolio-level UI for a fashion brand conce
 
 This project can be deployed using:
 
-- Vercel → https://vercel.com
-- Netlify → https://netlify.com
-
-Steps:
-1. Push project to GitHub
-2. Import into Vercel
-3. Click Deploy
+- Vercel 
+- Netlify 
 
 ---
 
